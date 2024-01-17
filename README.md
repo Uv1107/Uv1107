@@ -1,6 +1,8 @@
 <div align="center" width="50">
+<img src="https://github.com/Uv1107/Uv1107/blob/master/images/header_.png?raw=true" href="https://github.com/Uv1107" alt="CoDiNg RocKs"  width="100%"/><br><hr>
+<h1 align="center">Hi 👋, I'm Utkarsh Verma</h1>
 
-<img src="https://github.com/Uv1107/Uv1107/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Uv1107" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://github.com/Uv1107/Uv1107/blob/master/images/dev-working_rounded.gif?raw=true" href="https://github.com/Uv1107" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <!-- <p><strong>Freelancing & Assisting my father at his shop. -->
 <!-- <br><br> Vibing to : 🎧  </strong></p> -->
@@ -61,11 +63,11 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/Uv1107/Uv1107/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://media.tenor.com/CreWmr3MbOUAAAAi/family-guy-peter-griffin.gif" alt="Penguin" width="30%" /><br>
-- <img src="https://github.com/Uv1107/Uv1107/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/Uv1107/Uv1107/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/Uv1107/Uv1107/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/Uv1107/Uv1107/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+-  <img alt="GIF" src="https://github.com/Uv1107/Uv1107/blob/master/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://media.tenor.com/CreWmr3MbOUAAAAi/family-guy-peter-griffin.gif" alt="Penguin" width="30%" /><br>
+- <img src="https://github.com/Uv1107/Uv1107/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/Uv1107/Uv1107/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/Uv1107/Uv1107/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/Uv1107/Uv1107/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
 <a  href="https://github.com/Uv1107">
@@ -94,7 +96,7 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
-<!--img src="https://github.com/Uv1107/Uv1107/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+<!--img src="https://github.com/Uv1107/Uv1107/blob/master/images/this_page_is.gif?raw=true"  width="40%"/-->
 
 </div>
 
